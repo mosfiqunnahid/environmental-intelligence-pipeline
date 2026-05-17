@@ -1,0 +1,8 @@
+city,country,latitude,longitude,temperature_c,feels_like_c,humidity,pressure,wind_speed,weather_condition,weather_description,collected_at
+Dortmund,DE,51.5167,7.45,12.26,11.71,83,1013,3.09,Rain,light rain,2026-05-17T21:47:49.531365
+Berlin,DE,52.5244,13.4105,9.36,8.02,79,1016,2.57,Clear,clear sky,2026-05-17T21:47:49.531382
+Hamburg,DE,53.55,10.0,12.09,11.34,76,1014,2.06,Clear,clear sky,2026-05-17T21:47:49.531388
+Munich,DE,48.1374,11.5755,7.08,5.9,84,1016,1.89,Clouds,broken clouds,2026-05-17T21:47:49.531393
+Cologne,DE,50.9333,6.95,12.31,11.89,88,1013,1.03,Clouds,few clouds,2026-05-17T21:47:49.531399
+Düsseldorf,DE,51.2217,6.7762,12.14,11.84,93,1013,1.54,Rain,light rain,2026-05-17T21:47:49.531404
+Essen,DE,51.45,7.0167,11.75,11.3,89,1013,2.02,Clouds,overcast clouds,2026-05-17T21:47:49.531409

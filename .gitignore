@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# Generated data
+data/raw/*
+data/processed/*
+
+# Reports
+reports/figures/*
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,328 @@
+{
+    "extracted_at_utc": "2026-05-17T21:47:49.525539",
+    "records": [
+        {
+            "coord": {
+                "lon": 7.45,
+                "lat": 51.5167
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 12.26,
+                "feels_like": 11.71,
+                "temp_min": 11.57,
+                "temp_max": 12.53,
+                "pressure": 1013,
+                "humidity": 83,
+                "sea_level": 1013,
+                "grnd_level": 1001
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.09,
+                "deg": 190
+            },
+            "rain": {
+                "1h": 0.14
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1779054240,
+            "sys": {
+                "type": 2,
+                "id": 2105047,
+                "country": "DE",
+                "sunrise": 1778988946,
+                "sunset": 1779045458
+            },
+            "timezone": 7200,
+            "id": 2935517,
+            "name": "Dortmund",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 13.4105,
+                "lat": 52.5244
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 9.36,
+                "feels_like": 8.02,
+                "temp_min": 7.75,
+                "temp_max": 11.1,
+                "pressure": 1016,
+                "humidity": 79,
+                "sea_level": 1016,
+                "grnd_level": 1010
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.57,
+                "deg": 130
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1779054329,
+            "sys": {
+                "type": 2,
+                "id": 2012272,
+                "country": "DE",
+                "sunrise": 1778987254,
+                "sunset": 1779044289
+            },
+            "timezone": 7200,
+            "id": 2950159,
+            "name": "Berlin",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 10,
+                "lat": 53.55
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 12.09,
+                "feels_like": 11.34,
+                "temp_min": 11,
+                "temp_max": 13.49,
+                "pressure": 1014,
+                "humidity": 76,
+                "sea_level": 1014,
+                "grnd_level": 1012
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.06,
+                "deg": 90
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1779054191,
+            "sys": {
+                "type": 1,
+                "id": 1263,
+                "country": "DE",
+                "sunrise": 1778987788,
+                "sunset": 1779045392
+            },
+            "timezone": 7200,
+            "id": 2911298,
+            "name": "Hamburg",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 11.5755,
+                "lat": 48.1374
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 7.08,
+                "feels_like": 5.9,
+                "temp_min": 5.52,
+                "temp_max": 7.91,
+                "pressure": 1016,
+                "humidity": 84,
+                "sea_level": 1016,
+                "grnd_level": 952
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.89,
+                "deg": 147,
+                "gust": 2.36
+            },
+            "clouds": {
+                "all": 76
+            },
+            "dt": 1779054279,
+            "sys": {
+                "type": 2,
+                "id": 2002112,
+                "country": "DE",
+                "sunrise": 1778988744,
+                "sunset": 1779043680
+            },
+            "timezone": 7200,
+            "id": 2867714,
+            "name": "Munich",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 6.95,
+                "lat": 50.9333
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 12.31,
+                "feels_like": 11.89,
+                "temp_min": 11.13,
+                "temp_max": 12.76,
+                "pressure": 1013,
+                "humidity": 88,
+                "sea_level": 1013,
+                "grnd_level": 1006
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.03,
+                "deg": 0
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1779054365,
+            "sys": {
+                "type": 2,
+                "id": 2000227,
+                "country": "DE",
+                "sunrise": 1778989211,
+                "sunset": 1779045432
+            },
+            "timezone": 7200,
+            "id": 2886242,
+            "name": "Cologne",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 6.7762,
+                "lat": 51.2217
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 12.14,
+                "feels_like": 11.84,
+                "temp_min": 10.95,
+                "temp_max": 12.76,
+                "pressure": 1013,
+                "humidity": 93,
+                "sea_level": 1013,
+                "grnd_level": 1006
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.54,
+                "deg": 140
+            },
+            "rain": {
+                "1h": 0.75
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1779053925,
+            "sys": {
+                "type": 2,
+                "id": 2019396,
+                "country": "DE",
+                "sunrise": 1778989182,
+                "sunset": 1779045546
+            },
+            "timezone": 7200,
+            "id": 2934246,
+            "name": "D\u00fcsseldorf",
+            "cod": 200
+        },
+        {
+            "coord": {
+                "lon": 7.0167,
+                "lat": 51.45
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 11.75,
+                "feels_like": 11.3,
+                "temp_min": 10.86,
+                "temp_max": 12.66,
+                "pressure": 1013,
+                "humidity": 89,
+                "sea_level": 1013,
+                "grnd_level": 1003
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.02,
+                "deg": 166,
+                "gust": 7.85
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1779054043,
+            "sys": {
+                "type": 2,
+                "id": 2007921,
+                "country": "DE",
+                "sunrise": 1778989067,
+                "sunset": 1779045545
+            },
+            "timezone": 7200,
+            "id": 2928810,
+            "name": "Essen",
+            "cod": 200
+        }
+    ]
+}
